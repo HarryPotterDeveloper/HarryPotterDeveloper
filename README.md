@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, django, odoo , js, jquery, css , html
 - 🌱 I’m currently learning js and nodejs
 - 💞️ I’m looking to collaborate on web app
-- 📫 How to reach me ...  abbasezzeddin@gmain.com, HarryPotterDeveloper@gmail.com
+- 📫 How to reach me ...  abbasezzeddin@gmail.com, HarryPotterDeveloper@gmail.com
 
 <!---
 HarryPotterDeveloper/HarryPotterDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
